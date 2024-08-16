@@ -1,5 +1,8 @@
 # nstarter-core
 
+> [!IMPORTANT]  
+> 本项目已被合并至 https://github.com/jiandaoyun/nstarter
+
 nstarter 框架核心组件
 
 ## 组件使用介绍
